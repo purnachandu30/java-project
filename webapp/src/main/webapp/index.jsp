@@ -44,12 +44,12 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> this new test piepline job  </h1> </center>   
+    <center> <h1> Project on boarding form  </h1> </center>   
     <form>  
         <div class="container">   
-            <label>Username : </label>   
+            <label>Employee name : </label>   
             <input type="text" placeholder="Enter Username" name="username" required>  
-            <label>Password : </label>   
+            <label>employee password : </label>   
             <input type="password" placeholder="Enter Password" name="password" required>  
             <button type="submit">Login</button>   
             <input type="checkbox" checked="checked"> Remember me   
