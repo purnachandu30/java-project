@@ -44,12 +44,12 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> student application form  </h1> </center>   
+    <center> <h1> visa application </h1> </center>   
     <form>  
         <div class="container">   
-            <label>Employee name : </label>   
+            <label>visa username : </label>   
             <input type="text" placeholder="Enter Username" name="username" required>  
-            <label>employee password : </label>   
+            <label>visa password : </label>   
             <input type="password" placeholder="Enter Password" name="password" required>  
             <button type="submit">Login</button>   
             <input type="checkbox" checked="checked"> Remember me   
