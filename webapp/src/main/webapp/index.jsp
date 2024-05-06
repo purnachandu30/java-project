@@ -44,12 +44,12 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> test pipeline build job </h1> </center>   
+    <center> <h1> College login application </h1> </center>   
     <form>  
         <div class="container">   
-            <label>employee name : </label>   
+            <label>student name : </label>   
             <input type="text" placeholder="Enter Username" name="username" required>  
-            <label>visa password : </label>   
+            <label>password : </label>   
             <input type="password" placeholder="Enter Password" name="password" required>  
             <button type="submit">Login</button>   
             <input type="checkbox" checked="checked"> Remember me   
