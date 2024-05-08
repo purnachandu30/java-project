@@ -44,7 +44,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> College login application </h1> </center>   
+    <center> <h1> School application  </h1> </center>   
     <form>  
         <div class="container">   
             <label>student name : </label>   
