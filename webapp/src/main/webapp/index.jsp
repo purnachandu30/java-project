@@ -44,7 +44,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> Hello SharePoint Batch </h1> </center>   
+    <center> <h1> Hello Genpact Batch </h1> </center>   
     <form>  
         <div class="container">   
             <label>student name : </label>   
